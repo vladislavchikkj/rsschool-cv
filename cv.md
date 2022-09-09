@@ -37,4 +37,4 @@ alert( result );
   - [HTML Academy](https://www.htmlacademy.ru)
 
 ## __English__
-__A1__   
+__A1__     
